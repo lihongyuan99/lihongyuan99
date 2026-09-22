@@ -1,9 +1,10 @@
 ## Open-source contributions
 
-**12 merged PRs · 3 projects**
+**13 merged PRs · 3 projects**
 
-### [bytedance/deer-flow](https://github.com/bytedance/deer-flow) · 2 merged
+### [bytedance/deer-flow](https://github.com/bytedance/deer-flow) · 3 merged
 
+- fix&#40;skills&#41;: rollback reads its history file off the event loop — [#5729](https://github.com/bytedance/deer-flow/pull/5729) · 2026-09-22
 - fix&#40;skills&#41;: install for a user keeps its custom-dir setup off the event loop — [#5650](https://github.com/bytedance/deer-flow/pull/5650) · 2026-09-22
 - fix&#40;frontend&#41;: read web&#95;fetch titles that start with blank lines or indented headings — [#5560](https://github.com/bytedance/deer-flow/pull/5560) · 2026-09-20
 
