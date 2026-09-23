@@ -28,4 +28,4 @@
 
 All contributions listed above have been merged.
 
-[View all merged public PRs →](https://github.com/search?q=author%3Alihongyuan99+is%3Apr+is%3Amerged+is%3Apublic+-user%3Alihongyuan99+-repo%3Ahisn00w%2Fasu-skills&type=pullrequests)
+[View all merged public PRs →](https://github.com/search?q=author%3Alihongyuan99+is%3Apr+is%3Amerged+is%3Apublic+-user%3Alihongyuan99&type=pullrequests)
