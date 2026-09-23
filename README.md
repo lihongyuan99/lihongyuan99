@@ -1,10 +1,6 @@
 ## Open-source contributions
 
-**16 merged PRs · 5 projects**
-
-### [Hisn00w/ASu-skills](https://github.com/Hisn00w/ASu-skills) · 1 merged
-
-- docs: 修正 Qoder 插件注册步骤，避免配置被静默丢弃 — [#159](https://github.com/Hisn00w/ASu-skills/pull/159) · 2026-09-23
+**15 merged PRs · 4 projects**
 
 ### [Canner/WrenAI](https://github.com/Canner/WrenAI) · 1 merged
 
@@ -32,4 +28,4 @@
 
 All contributions listed above have been merged.
 
-[View all merged public PRs →](https://github.com/search?q=author%3Alihongyuan99+is%3Apr+is%3Amerged+is%3Apublic+-user%3Alihongyuan99&type=pullrequests)
+[View all merged public PRs →](https://github.com/search?q=author%3Alihongyuan99+is%3Apr+is%3Amerged+is%3Apublic+-user%3Alihongyuan99+-repo%3Ahisn00w%2Fasu-skills&type=pullrequests)
