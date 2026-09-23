@@ -1,16 +1,16 @@
 ## Open-source contributions
 
-**15 merged PRs · 4 projects**
+**16 merged PRs · 4 projects**
+
+### [bytedance/deer-flow](https://github.com/bytedance/deer-flow) · 5 merged &nbsp; <a href="https://trendshift.io/repositories/14699"><img src="https://trendshift.io/api/badge/repositories/14699" alt="bytedance/deer-flow | Trendshift" width="136" height="30" align="center" /></a>
+
+- fix&#40;channels&#41;: resolve the Buzz seen-event store path off the loop — [#5759](https://github.com/bytedance/deer-flow/pull/5759) · 2026-09-23
+- fix&#40;persistence&#41;: drain the auto-create maintenance dispose across cancellation — [#5649](https://github.com/bytedance/deer-flow/pull/5649) · 2026-09-23
+- fix&#40;skills&#41;: rollback reads its history file off the event loop — [#5729](https://github.com/bytedance/deer-flow/pull/5729) · 2026-09-22
 
 ### [Canner/WrenAI](https://github.com/Canner/WrenAI) · 1 merged &nbsp; <a href="https://trendshift.io/repositories/9263"><img src="https://trendshift.io/api/badge/repositories/9263" alt="Canner/WrenAI | Trendshift" width="136" height="30" align="center" /></a>
 
 - fix&#40;wren&#41;: strip semicolon before trailing comment in strip&#95;trailing&#95;semicolon — [#2752](https://github.com/Canner/WrenAI/pull/2752) · 2026-09-23
-
-### [bytedance/deer-flow](https://github.com/bytedance/deer-flow) · 4 merged &nbsp; <a href="https://trendshift.io/repositories/14699"><img src="https://trendshift.io/api/badge/repositories/14699" alt="bytedance/deer-flow | Trendshift" width="136" height="30" align="center" /></a>
-
-- fix&#40;persistence&#41;: drain the auto-create maintenance dispose across cancellation — [#5649](https://github.com/bytedance/deer-flow/pull/5649) · 2026-09-23
-- fix&#40;skills&#41;: rollback reads its history file off the event loop — [#5729](https://github.com/bytedance/deer-flow/pull/5729) · 2026-09-22
-- fix&#40;skills&#41;: install for a user keeps its custom-dir setup off the event loop — [#5650](https://github.com/bytedance/deer-flow/pull/5650) · 2026-09-22
 
 ### [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) · 5 merged &nbsp; <a href="https://trendshift.io/repositories/20310"><img src="https://trendshift.io/api/badge/repositories/20310" alt="agentscope-ai/agentscope | Trendshift" width="136" height="30" align="center" /></a>
 
