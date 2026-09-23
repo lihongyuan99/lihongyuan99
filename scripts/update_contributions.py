@@ -7,6 +7,8 @@ from pathlib import Path
 import subprocess
 from urllib.parse import urlencode
 
+EXCLUDED_REPOSITORIES = {"hisn00w/asu-skills"}
+
 QUERY = """
 query($login: String!, $cursor: String) {
   user(login: $login) {
@@ -38,7 +40,8 @@ def fetch_contributions(login):
         for item in page["nodes"]:
             repo = item["repository"]
             if (repo and not repo["isPrivate"] and item["mergedAt"]
-                    and repo["owner"]["login"].lower() != login.lower()):
+                    and repo["owner"]["login"].lower() != login.lower()
+                    and repo["nameWithOwner"].lower() not in EXCLUDED_REPOSITORIES):
                 items[item["url"]] = item
         if not page["pageInfo"]["hasNextPage"]:
             return list(items.values())
@@ -69,6 +72,7 @@ def render(items, login):
                          f"[#{pr['number']}]({pr['url']}) · {pr['mergedAt'][:10]}")
         lines.append("")
     query = f"author:{login} is:pr is:merged is:public -user:{login}"
+    query += "".join(f" -repo:{repo}" for repo in sorted(EXCLUDED_REPOSITORIES))
     url = "https://github.com/search?" + urlencode({"q": query, "type": "pullrequests"})
     lines += ["---", "", "All contributions listed above have been merged.", "",
               f"[View all merged public PRs →]({url})", ""]
