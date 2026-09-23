@@ -1,12 +1,20 @@
 ## Open-source contributions
 
-**13 merged PRs · 3 projects**
+**16 merged PRs · 5 projects**
 
-### [bytedance/deer-flow](https://github.com/bytedance/deer-flow) · 3 merged
+### [Hisn00w/ASu-skills](https://github.com/Hisn00w/ASu-skills) · 1 merged
 
+- docs: 修正 Qoder 插件注册步骤，避免配置被静默丢弃 — [#159](https://github.com/Hisn00w/ASu-skills/pull/159) · 2026-09-23
+
+### [Canner/WrenAI](https://github.com/Canner/WrenAI) · 1 merged
+
+- fix&#40;wren&#41;: strip semicolon before trailing comment in strip&#95;trailing&#95;semicolon — [#2752](https://github.com/Canner/WrenAI/pull/2752) · 2026-09-23
+
+### [bytedance/deer-flow](https://github.com/bytedance/deer-flow) · 4 merged
+
+- fix&#40;persistence&#41;: drain the auto-create maintenance dispose across cancellation — [#5649](https://github.com/bytedance/deer-flow/pull/5649) · 2026-09-23
 - fix&#40;skills&#41;: rollback reads its history file off the event loop — [#5729](https://github.com/bytedance/deer-flow/pull/5729) · 2026-09-22
 - fix&#40;skills&#41;: install for a user keeps its custom-dir setup off the event loop — [#5650](https://github.com/bytedance/deer-flow/pull/5650) · 2026-09-22
-- fix&#40;frontend&#41;: read web&#95;fetch titles that start with blank lines or indented headings — [#5560](https://github.com/bytedance/deer-flow/pull/5560) · 2026-09-20
 
 ### [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) · 5 merged
 
