@@ -82,7 +82,7 @@ def fetch_badges(repositories):
             badges[name] = (
                 f'<a href="https://trendshift.io/repositories/{match.group(1)}">'
                 f'<img src="{match.group(0)}" alt="{html.escape(name)} | Trendshift" '
-                'width="250" height="55" /></a>'
+                'width="136" height="30" align="center" /></a>'
             )
             continue
         match = re.search(
@@ -91,7 +91,8 @@ def fetch_badges(repositories):
         )
         if match:
             badges[name] = (
-                f'[![GitHub Trending]({match.group(0)})](https://github.com/trending)'
+                f'<a href="https://github.com/trending"><img src="{html.escape(match.group(0), quote=True)}" '
+                'alt="GitHub Trending" height="20" align="center" /></a>'
             )
     return badges
 
@@ -104,9 +105,10 @@ def render(items, login, badges=None):
     lines = ["## Open-source contributions", "",
              f"**{len(items)} merged PRs · {len(groups)} projects**", ""]
     for name, prs in list(groups.items())[:5]:
-        lines += [f"### [{name}](https://github.com/{name}) · {len(prs)} merged", ""]
+        heading = f"### [{name}](https://github.com/{name}) · {len(prs)} merged"
         if name in badges:
-            lines += [badges[name], ""]
+            heading += f" &nbsp; {badges[name]}"
+        lines += [heading, ""]
         for pr in prs[:3]:
             lines.append(f"- {safe_title(pr['title'])} — "
                          f"[#{pr['number']}]({pr['url']}) · {pr['mergedAt'][:10]}")
