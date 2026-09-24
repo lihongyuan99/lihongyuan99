@@ -1,6 +1,10 @@
 ## Open-source contributions
 
-**16 merged PRs · 4 projects**
+**17 merged PRs · 5 projects**
+
+### [infiniflow/ragflow](https://github.com/infiniflow/ragflow) · 1 merged &nbsp; <a href="https://trendshift.io/repositories/9064"><img src="https://trendshift.io/api/badge/repositories/9064" alt="infiniflow/ragflow | Trendshift" width="136" height="30" align="center" /></a>
+
+- docs: drop KIBANA&#95;USER / KIBANA&#95;PASSWORD, which nothing reads — [#20150](https://github.com/infiniflow/ragflow/pull/20150) · 2026-09-24
 
 ### [bytedance/deer-flow](https://github.com/bytedance/deer-flow) · 5 merged &nbsp; <a href="https://trendshift.io/repositories/14699"><img src="https://trendshift.io/api/badge/repositories/14699" alt="bytedance/deer-flow | Trendshift" width="136" height="30" align="center" /></a>
 
