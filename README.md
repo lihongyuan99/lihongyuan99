@@ -1,6 +1,11 @@
 ## Open-source contributions
 
-**20 merged PRs · 6 projects**
+**22 merged PRs · 7 projects**
+
+### [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) · 2 merged
+
+- fix&#40;ts&#41;: keep sentences that merely mention &quot;confidential&quot; in cleanEmailBody &#40;Python parity&#41; — [#353](https://github.com/NandhaKishorM/laya/pull/353) · 2026-09-24
+- fix&#40;ts&#41;: route plain-ASCII German like Python — [#354](https://github.com/NandhaKishorM/laya/pull/354) · 2026-09-24
 
 ### [bytedance/deer-flow](https://github.com/bytedance/deer-flow) · 6 merged &nbsp; <a href="https://trendshift.io/repositories/14699"><img src="https://trendshift.io/api/badge/repositories/14699" alt="bytedance/deer-flow | Trendshift" width="136" height="30" align="center" /></a>
 
@@ -20,12 +25,6 @@
 ### [Canner/WrenAI](https://github.com/Canner/WrenAI) · 1 merged &nbsp; <a href="https://trendshift.io/repositories/9263"><img src="https://trendshift.io/api/badge/repositories/9263" alt="Canner/WrenAI | Trendshift" width="136" height="30" align="center" /></a>
 
 - fix&#40;wren&#41;: strip semicolon before trailing comment in strip&#95;trailing&#95;semicolon — [#2752](https://github.com/Canner/WrenAI/pull/2752) · 2026-09-23
-
-### [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) · 5 merged &nbsp; <a href="https://trendshift.io/repositories/20310"><img src="https://trendshift.io/api/badge/repositories/20310" alt="agentscope-ai/agentscope | Trendshift" width="136" height="30" align="center" /></a>
-
-- fix&#40;utils&#41;: honour set&#95;timestamp&#95;factory in all entities — [#2733](https://github.com/agentscope-ai/agentscope/pull/2733) · 2026-09-22
-- fix&#40;storage&#41;: keep native datetimes for promoted DateTime columns — [#2749](https://github.com/agentscope-ai/agentscope/pull/2749) · 2026-09-22
-- fix&#40;tool&#41;: count written lines the way Read numbers them — [#2734](https://github.com/agentscope-ai/agentscope/pull/2734) · 2026-09-22
 
 ---
 
