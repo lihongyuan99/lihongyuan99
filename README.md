@@ -1,17 +1,17 @@
 ## Open-source contributions
 
-**22 merged PRs · 7 projects**
+**23 merged PRs · 7 projects**
+
+### [bytedance/deer-flow](https://github.com/bytedance/deer-flow) · 7 merged &nbsp; <a href="https://trendshift.io/repositories/14699"><img src="https://trendshift.io/api/badge/repositories/14699" alt="bytedance/deer-flow | Trendshift" width="136" height="30" align="center" /></a>
+
+- docs&#40;harness&#41;: make the custom memory storage guide followable — [#5844](https://github.com/bytedance/deer-flow/pull/5844) · 2026-09-25
+- fix&#40;sandbox&#41;: resolve the async acquire lock path off the event loop — [#5760](https://github.com/bytedance/deer-flow/pull/5760) · 2026-09-24
+- fix&#40;channels&#41;: resolve the Buzz seen-event store path off the loop — [#5759](https://github.com/bytedance/deer-flow/pull/5759) · 2026-09-23
 
 ### [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) · 2 merged
 
 - fix&#40;ts&#41;: keep sentences that merely mention &quot;confidential&quot; in cleanEmailBody &#40;Python parity&#41; — [#353](https://github.com/NandhaKishorM/laya/pull/353) · 2026-09-24
 - fix&#40;ts&#41;: route plain-ASCII German like Python — [#354](https://github.com/NandhaKishorM/laya/pull/354) · 2026-09-24
-
-### [bytedance/deer-flow](https://github.com/bytedance/deer-flow) · 6 merged &nbsp; <a href="https://trendshift.io/repositories/14699"><img src="https://trendshift.io/api/badge/repositories/14699" alt="bytedance/deer-flow | Trendshift" width="136" height="30" align="center" /></a>
-
-- fix&#40;sandbox&#41;: resolve the async acquire lock path off the event loop — [#5760](https://github.com/bytedance/deer-flow/pull/5760) · 2026-09-24
-- fix&#40;channels&#41;: resolve the Buzz seen-event store path off the loop — [#5759](https://github.com/bytedance/deer-flow/pull/5759) · 2026-09-23
-- fix&#40;persistence&#41;: drain the auto-create maintenance dispose across cancellation — [#5649](https://github.com/bytedance/deer-flow/pull/5649) · 2026-09-23
 
 ### [TencentCloud/Octop](https://github.com/TencentCloud/Octop) · 2 merged &nbsp; <a href="https://trendshift.io/repositories/95504"><img src="https://trendshift.io/api/badge/repositories/95504" alt="TencentCloud/Octop | Trendshift" width="136" height="30" align="center" /></a>
 
