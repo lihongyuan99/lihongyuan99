@@ -105,6 +105,12 @@ def render(items, login, badges=None):
     lines = ["## Open-source contributions", "",
              f"**{len(items)} merged PRs · {len(groups)} projects**", ""]
     for name, prs in groups.items():
+        prs.sort(key=lambda pr: (
+            pr["title"].lstrip().lower().startswith("docs:"),
+            pr["mergedAt"],
+        ), reverse=False)
+        # Show implementation work first; docs PRs fill remaining slots.
+        prs.sort(key=lambda pr: pr["title"].lstrip().lower().startswith("docs:"))
         heading = f"### [{name}](https://github.com/{name}) · {len(prs)} merged"
         if name in badges:
             heading += f" &nbsp; {badges[name]}"
