@@ -4,9 +4,9 @@
 
 ### [bytedance/deer-flow](https://github.com/bytedance/deer-flow) · 8 merged &nbsp; <a href="https://trendshift.io/repositories/14699"><img src="https://trendshift.io/api/badge/repositories/14699" alt="bytedance/deer-flow | Trendshift" width="136" height="30" align="center" /></a>
 
-- docs&#40;backend&#41;: drop references to APIs that do not exist — [#5798](https://github.com/bytedance/deer-flow/pull/5798) · 2026-09-25
-- docs&#40;harness&#41;: make the custom memory storage guide followable — [#5844](https://github.com/bytedance/deer-flow/pull/5844) · 2026-09-25
 - fix&#40;sandbox&#41;: resolve the async acquire lock path off the event loop — [#5760](https://github.com/bytedance/deer-flow/pull/5760) · 2026-09-24
+- fix&#40;channels&#41;: resolve the Buzz seen-event store path off the loop — [#5759](https://github.com/bytedance/deer-flow/pull/5759) · 2026-09-23
+- fix&#40;persistence&#41;: drain the auto-create maintenance dispose across cancellation — [#5649](https://github.com/bytedance/deer-flow/pull/5649) · 2026-09-23
 
 ### [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) · 2 merged
 
