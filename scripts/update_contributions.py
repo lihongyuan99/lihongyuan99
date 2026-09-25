@@ -104,7 +104,7 @@ def render(items, login, badges=None):
         groups.setdefault(item["repository"]["nameWithOwner"], []).append(item)
     lines = ["## Open-source contributions", "",
              f"**{len(items)} merged PRs · {len(groups)} projects**", ""]
-    for name, prs in list(groups.items())[:5]:
+    for name, prs in groups.items():
         heading = f"### [{name}](https://github.com/{name}) · {len(prs)} merged"
         if name in badges:
             heading += f" &nbsp; {badges[name]}"
