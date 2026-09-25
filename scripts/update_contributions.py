@@ -107,7 +107,9 @@ def render(items, login, badges=None):
     for name, prs in groups.items():
         # Stable sorting keeps newest first within each PR type.
         # Show implementation work first; docs PRs fill remaining slots.
-        prs.sort(key=lambda pr: pr["title"].lstrip().lower().startswith("docs:"))
+        prs.sort(key=lambda pr: bool(re.match(
+            r"^docs(?:\([^)]*\))?:", pr["title"].lstrip(), re.IGNORECASE
+        )))
         heading = f"### [{name}](https://github.com/{name}) · {len(prs)} merged"
         if name in badges:
             heading += f" &nbsp; {badges[name]}"
