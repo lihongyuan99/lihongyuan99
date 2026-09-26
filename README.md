@@ -1,6 +1,12 @@
 ## Open-source contributions
 
-**24 merged PRs · 7 projects**
+**25 merged PRs · 7 projects**
+
+### [TencentCloud/Octop](https://github.com/TencentCloud/Octop) · 3 merged &nbsp; <a href="https://trendshift.io/repositories/95504"><img src="https://trendshift.io/api/badge/repositories/95504" alt="TencentCloud/Octop | Trendshift" width="136" height="30" align="center" /></a>
+
+- fix&#40;security&#41;: keep IPv6 brackets and path params when rebuilding pinned URLs — [#1092](https://github.com/TencentCloud/Octop/pull/1092) · 2026-09-24
+- fix&#40;plugins&#41;: keep wiki&#95;summary requests under &#42;.wikipedia.org — [#1027](https://github.com/TencentCloud/Octop/pull/1027) · 2026-09-24
+- docs&#40;fnos&#41;: name the fpk packages the release actually ships — [#1145](https://github.com/TencentCloud/Octop/pull/1145) · 2026-09-26
 
 ### [bytedance/deer-flow](https://github.com/bytedance/deer-flow) · 8 merged &nbsp; <a href="https://trendshift.io/repositories/14699"><img src="https://trendshift.io/api/badge/repositories/14699" alt="bytedance/deer-flow | Trendshift" width="136" height="30" align="center" /></a>
 
@@ -12,11 +18,6 @@
 
 - fix&#40;ts&#41;: keep sentences that merely mention &quot;confidential&quot; in cleanEmailBody &#40;Python parity&#41; — [#353](https://github.com/NandhaKishorM/laya/pull/353) · 2026-09-24
 - fix&#40;ts&#41;: route plain-ASCII German like Python — [#354](https://github.com/NandhaKishorM/laya/pull/354) · 2026-09-24
-
-### [TencentCloud/Octop](https://github.com/TencentCloud/Octop) · 2 merged &nbsp; <a href="https://trendshift.io/repositories/95504"><img src="https://trendshift.io/api/badge/repositories/95504" alt="TencentCloud/Octop | Trendshift" width="136" height="30" align="center" /></a>
-
-- fix&#40;security&#41;: keep IPv6 brackets and path params when rebuilding pinned URLs — [#1092](https://github.com/TencentCloud/Octop/pull/1092) · 2026-09-24
-- fix&#40;plugins&#41;: keep wiki&#95;summary requests under &#42;.wikipedia.org — [#1027](https://github.com/TencentCloud/Octop/pull/1027) · 2026-09-24
 
 ### [infiniflow/ragflow](https://github.com/infiniflow/ragflow) · 1 merged &nbsp; <a href="https://trendshift.io/repositories/9064"><img src="https://trendshift.io/api/badge/repositories/9064" alt="infiniflow/ragflow | Trendshift" width="136" height="30" align="center" /></a>
 
