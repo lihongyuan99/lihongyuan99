@@ -1,18 +1,18 @@
 ## Open-source contributions
 
-**25 merged PRs · 7 projects**
+**26 merged PRs · 7 projects**
+
+### [bytedance/deer-flow](https://github.com/bytedance/deer-flow) · 9 merged &nbsp; <a href="https://trendshift.io/repositories/14699"><img src="https://trendshift.io/api/badge/repositories/14699" alt="bytedance/deer-flow | Trendshift" width="136" height="30" align="center" /></a>
+
+- fix&#40;frontend&#41;: a fence line with an info string must not close the block — [#5919](https://github.com/bytedance/deer-flow/pull/5919) · 2026-09-27
+- fix&#40;sandbox&#41;: resolve the async acquire lock path off the event loop — [#5760](https://github.com/bytedance/deer-flow/pull/5760) · 2026-09-24
+- fix&#40;channels&#41;: resolve the Buzz seen-event store path off the loop — [#5759](https://github.com/bytedance/deer-flow/pull/5759) · 2026-09-23
 
 ### [TencentCloud/Octop](https://github.com/TencentCloud/Octop) · 3 merged &nbsp; <a href="https://trendshift.io/repositories/95504"><img src="https://trendshift.io/api/badge/repositories/95504" alt="TencentCloud/Octop | Trendshift" width="136" height="30" align="center" /></a>
 
 - fix&#40;security&#41;: keep IPv6 brackets and path params when rebuilding pinned URLs — [#1092](https://github.com/TencentCloud/Octop/pull/1092) · 2026-09-24
 - fix&#40;plugins&#41;: keep wiki&#95;summary requests under &#42;.wikipedia.org — [#1027](https://github.com/TencentCloud/Octop/pull/1027) · 2026-09-24
 - docs&#40;fnos&#41;: name the fpk packages the release actually ships — [#1145](https://github.com/TencentCloud/Octop/pull/1145) · 2026-09-26
-
-### [bytedance/deer-flow](https://github.com/bytedance/deer-flow) · 8 merged &nbsp; <a href="https://trendshift.io/repositories/14699"><img src="https://trendshift.io/api/badge/repositories/14699" alt="bytedance/deer-flow | Trendshift" width="136" height="30" align="center" /></a>
-
-- fix&#40;sandbox&#41;: resolve the async acquire lock path off the event loop — [#5760](https://github.com/bytedance/deer-flow/pull/5760) · 2026-09-24
-- fix&#40;channels&#41;: resolve the Buzz seen-event store path off the loop — [#5759](https://github.com/bytedance/deer-flow/pull/5759) · 2026-09-23
-- fix&#40;persistence&#41;: drain the auto-create maintenance dispose across cancellation — [#5649](https://github.com/bytedance/deer-flow/pull/5649) · 2026-09-23
 
 ### [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) · 2 merged
 
