@@ -1,24 +1,24 @@
 ## Open-source contributions
 
-**31 merged PRs · 7 projects**
+**33 merged PRs · 7 projects**
+
+### [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) · 8 merged &nbsp; <a href="https://trendshift.io/repositories/20310"><img src="https://trendshift.io/api/badge/repositories/20310" alt="agentscope-ai/agentscope | Trendshift" width="136" height="30" align="center" /></a>
+
+- fix&#40;app&#41;: reject an MCP name the library cannot load back — [#3025](https://github.com/agentscope-ai/agentscope/pull/3025) · 2026-09-30
+- fix&#40;skill&#41;: read SKILL.md as utf-8-sig so a BOM keeps front matter — [#2735](https://github.com/agentscope-ai/agentscope/pull/2735) · 2026-09-29
+- fix&#40;tui&#41;: count changed lines that start with a diff marker — [#2830](https://github.com/agentscope-ai/agentscope/pull/2830) · 2026-09-28
+
+### [TencentCloud/Octop](https://github.com/TencentCloud/Octop) · 5 merged &nbsp; <a href="https://trendshift.io/repositories/95504"><img src="https://trendshift.io/api/badge/repositories/95504" alt="TencentCloud/Octop | Trendshift" width="136" height="30" align="center" /></a>
+
+- fix&#40;desktop&#41;: expand the optional wheel overrides under bash 3.2 — [#1363](https://github.com/TencentCloud/Octop/pull/1363) · 2026-09-30
+- fix&#40;docker&#41;: ship the langfuse env var the client actually reads — [#1258](https://github.com/TencentCloud/Octop/pull/1258) · 2026-09-29
+- fix&#40;security&#41;: keep IPv6 brackets and path params when rebuilding pinned URLs — [#1092](https://github.com/TencentCloud/Octop/pull/1092) · 2026-09-24
 
 ### [bytedance/deer-flow](https://github.com/bytedance/deer-flow) · 11 merged &nbsp; <a href="https://trendshift.io/repositories/14699"><img src="https://trendshift.io/api/badge/repositories/14699" alt="bytedance/deer-flow | Trendshift" width="136" height="30" align="center" /></a>
 
 - fix&#40;persistence&#41;: keep a literal plus in a postgres DSN query — [#5978](https://github.com/bytedance/deer-flow/pull/5978) · 2026-09-28
 - fix&#40;frontend&#41;: a fence line with an info string must not close the block — [#5919](https://github.com/bytedance/deer-flow/pull/5919) · 2026-09-27
 - fix&#40;sandbox&#41;: resolve the async acquire lock path off the event loop — [#5760](https://github.com/bytedance/deer-flow/pull/5760) · 2026-09-24
-
-### [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) · 7 merged &nbsp; <a href="https://trendshift.io/repositories/20310"><img src="https://trendshift.io/api/badge/repositories/20310" alt="agentscope-ai/agentscope | Trendshift" width="136" height="30" align="center" /></a>
-
-- fix&#40;skill&#41;: read SKILL.md as utf-8-sig so a BOM keeps front matter — [#2735](https://github.com/agentscope-ai/agentscope/pull/2735) · 2026-09-29
-- fix&#40;tui&#41;: count changed lines that start with a diff marker — [#2830](https://github.com/agentscope-ai/agentscope/pull/2830) · 2026-09-28
-- fix&#40;utils&#41;: honour set&#95;timestamp&#95;factory in all entities — [#2733](https://github.com/agentscope-ai/agentscope/pull/2733) · 2026-09-22
-
-### [TencentCloud/Octop](https://github.com/TencentCloud/Octop) · 4 merged &nbsp; <a href="https://trendshift.io/repositories/95504"><img src="https://trendshift.io/api/badge/repositories/95504" alt="TencentCloud/Octop | Trendshift" width="136" height="30" align="center" /></a>
-
-- fix&#40;docker&#41;: ship the langfuse env var the client actually reads — [#1258](https://github.com/TencentCloud/Octop/pull/1258) · 2026-09-29
-- fix&#40;security&#41;: keep IPv6 brackets and path params when rebuilding pinned URLs — [#1092](https://github.com/TencentCloud/Octop/pull/1092) · 2026-09-24
-- fix&#40;plugins&#41;: keep wiki&#95;summary requests under &#42;.wikipedia.org — [#1027](https://github.com/TencentCloud/Octop/pull/1027) · 2026-09-24
 
 ### [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) · 2 merged
 
