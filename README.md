@@ -1,17 +1,17 @@
 ## Open-source contributions
 
-**35 merged PRs · 7 projects**
+**36 merged PRs · 7 projects**
+
+### [bytedance/deer-flow](https://github.com/bytedance/deer-flow) · 13 merged &nbsp; <a href="https://trendshift.io/repositories/14699"><img src="https://trendshift.io/api/badge/repositories/14699" alt="bytedance/deer-flow | Trendshift" width="136" height="30" align="center" /></a>
+
+- fix&#40;frontend&#41;: key the Julia entry of extensionMap by its extension — [#6130](https://github.com/bytedance/deer-flow/pull/6130) · 2026-10-01
+- fix&#40;persistence&#41;: keep a literal plus in a postgres DSN query — [#5978](https://github.com/bytedance/deer-flow/pull/5978) · 2026-09-28
+- fix&#40;frontend&#41;: a fence line with an info string must not close the block — [#5919](https://github.com/bytedance/deer-flow/pull/5919) · 2026-09-27
 
 ### [Canner/WrenAI](https://github.com/Canner/WrenAI) · 2 merged &nbsp; <a href="https://trendshift.io/repositories/9263"><img src="https://trendshift.io/api/badge/repositories/9263" alt="Canner/WrenAI | Trendshift" width="136" height="30" align="center" /></a>
 
 - fix&#40;wren&#41;: make test-unit run the whole unit tree like CI does — [#2768](https://github.com/Canner/WrenAI/pull/2768) · 2026-10-01
 - fix&#40;wren&#41;: strip semicolon before trailing comment in strip&#95;trailing&#95;semicolon — [#2752](https://github.com/Canner/WrenAI/pull/2752) · 2026-09-23
-
-### [bytedance/deer-flow](https://github.com/bytedance/deer-flow) · 12 merged &nbsp; <a href="https://trendshift.io/repositories/14699"><img src="https://trendshift.io/api/badge/repositories/14699" alt="bytedance/deer-flow | Trendshift" width="136" height="30" align="center" /></a>
-
-- fix&#40;frontend&#41;: key the Julia entry of extensionMap by its extension — [#6130](https://github.com/bytedance/deer-flow/pull/6130) · 2026-10-01
-- fix&#40;persistence&#41;: keep a literal plus in a postgres DSN query — [#5978](https://github.com/bytedance/deer-flow/pull/5978) · 2026-09-28
-- fix&#40;frontend&#41;: a fence line with an info string must not close the block — [#5919](https://github.com/bytedance/deer-flow/pull/5919) · 2026-09-27
 
 ### [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) · 8 merged &nbsp; <a href="https://trendshift.io/repositories/20310"><img src="https://trendshift.io/api/badge/repositories/20310" alt="agentscope-ai/agentscope | Trendshift" width="136" height="30" align="center" /></a>
 
