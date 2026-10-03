@@ -1,8 +1,8 @@
 ## Open-source contributions
 
-**36 merged PRs · 7 projects**
+**37 merged PRs · 7 projects**
 
-### [bytedance/deer-flow](https://github.com/bytedance/deer-flow) · 13 merged &nbsp; <a href="https://trendshift.io/repositories/14699"><img src="https://trendshift.io/api/badge/repositories/14699" alt="bytedance/deer-flow | Trendshift" width="136" height="30" align="center" /></a>
+### [bytedance/deer-flow](https://github.com/bytedance/deer-flow) · 14 merged &nbsp; <a href="https://trendshift.io/repositories/14699"><img src="https://trendshift.io/api/badge/repositories/14699" alt="bytedance/deer-flow | Trendshift" width="136" height="30" align="center" /></a>
 
 - fix&#40;frontend&#41;: key the Julia entry of extensionMap by its extension — [#6130](https://github.com/bytedance/deer-flow/pull/6130) · 2026-10-01
 - fix&#40;persistence&#41;: keep a literal plus in a postgres DSN query — [#5978](https://github.com/bytedance/deer-flow/pull/5978) · 2026-09-28
