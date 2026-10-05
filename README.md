@@ -1,12 +1,12 @@
 ## Open-source contributions
 
-**39 merged PRs · 7 projects**
+**40 merged PRs · 7 projects**
 
-### [Canner/WrenAI](https://github.com/Canner/WrenAI) · 3 merged &nbsp; <a href="https://trendshift.io/repositories/9263"><img src="https://trendshift.io/api/badge/repositories/9263" alt="Canner/WrenAI | Trendshift" width="136" height="30" align="center" /></a>
+### [Canner/WrenAI](https://github.com/Canner/WrenAI) · 4 merged &nbsp; <a href="https://trendshift.io/repositories/9263"><img src="https://trendshift.io/api/badge/repositories/9263" alt="Canner/WrenAI | Trendshift" width="136" height="30" align="center" /></a>
 
+- fix&#40;memory&#41;: carry the reindex failure reason out of the watch loop — [#2767](https://github.com/Canner/WrenAI/pull/2767) · 2026-10-05
 - fix&#40;wren&#41;: make test-unit run the whole unit tree like CI does — [#2768](https://github.com/Canner/WrenAI/pull/2768) · 2026-10-01
 - fix&#40;wren&#41;: strip semicolon before trailing comment in strip&#95;trailing&#95;semicolon — [#2752](https://github.com/Canner/WrenAI/pull/2752) · 2026-09-23
-- docs&#40;wren&#41;: correct CLI commands and connector modules in CLAUDE.md — [#2759](https://github.com/Canner/WrenAI/pull/2759) · 2026-10-05
 
 ### [bytedance/deer-flow](https://github.com/bytedance/deer-flow) · 15 merged &nbsp; <a href="https://trendshift.io/repositories/14699"><img src="https://trendshift.io/api/badge/repositories/14699" alt="bytedance/deer-flow | Trendshift" width="136" height="30" align="center" /></a>
 
