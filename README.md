@@ -1,6 +1,17 @@
 ## Open-source contributions
 
-**40 merged PRs · 7 projects**
+**45 merged PRs · 8 projects**
+
+### [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) · 4 merged &nbsp; <a href="https://trendshift.io/repositories/14959"><img src="https://trendshift.io/api/badge/repositories/14959" alt="HKUDS/RAG-Anything | Trendshift" width="136" height="30" align="center" /></a>
+
+- fix&#40;modalprocessors&#41;: keep the 3-value contract on the fallback path — [#367](https://github.com/HKUDS/RAG-Anything/pull/367) · 2026-10-05
+- chore&#40;gitignore&#41;: stop unanchored test&#95;&#42; from hiding files in tests/ — [#369](https://github.com/HKUDS/RAG-Anything/pull/369) · 2026-10-05
+- fix&#40;modalprocessors&#41;: stop joining string captions per character — [#368](https://github.com/HKUDS/RAG-Anything/pull/368) · 2026-10-05
+
+### [infiniflow/ragflow](https://github.com/infiniflow/ragflow) · 2 merged &nbsp; <a href="https://trendshift.io/repositories/9064"><img src="https://trendshift.io/api/badge/repositories/9064" alt="infiniflow/ragflow | Trendshift" width="136" height="30" align="center" /></a>
+
+- fix&#40;deepdoc&#41;: parse negative coordinates in @@ position tags on the Python side — [#19952](https://github.com/infiniflow/ragflow/pull/19952) · 2026-10-05
+- docs: drop KIBANA&#95;USER / KIBANA&#95;PASSWORD, which nothing reads — [#20150](https://github.com/infiniflow/ragflow/pull/20150) · 2026-09-24
 
 ### [Canner/WrenAI](https://github.com/Canner/WrenAI) · 4 merged &nbsp; <a href="https://trendshift.io/repositories/9263"><img src="https://trendshift.io/api/badge/repositories/9263" alt="Canner/WrenAI | Trendshift" width="136" height="30" align="center" /></a>
 
@@ -30,10 +41,6 @@
 
 - fix&#40;ts&#41;: keep sentences that merely mention &quot;confidential&quot; in cleanEmailBody &#40;Python parity&#41; — [#353](https://github.com/NandhaKishorM/laya/pull/353) · 2026-09-24
 - fix&#40;ts&#41;: route plain-ASCII German like Python — [#354](https://github.com/NandhaKishorM/laya/pull/354) · 2026-09-24
-
-### [infiniflow/ragflow](https://github.com/infiniflow/ragflow) · 1 merged &nbsp; <a href="https://trendshift.io/repositories/9064"><img src="https://trendshift.io/api/badge/repositories/9064" alt="infiniflow/ragflow | Trendshift" width="136" height="30" align="center" /></a>
-
-- docs: drop KIBANA&#95;USER / KIBANA&#95;PASSWORD, which nothing reads — [#20150](https://github.com/infiniflow/ragflow/pull/20150) · 2026-09-24
 
 ### [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) · 5 merged &nbsp; <a href="https://github.com/trending"><img src="https://img.shields.io/badge/GitHub%20Trending-Project%20of%20the%20Day-orange?logo=github" alt="GitHub Trending" height="20" align="center" /></a>
 
