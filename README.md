@@ -1,6 +1,10 @@
 ## Open-source contributions
 
-**45 merged PRs · 8 projects**
+**46 merged PRs · 9 projects**
+
+### [cline/cline](https://github.com/cline/cline) · 1 merged
+
+- docs: fix three stale documentation anchors — [#14259](https://github.com/cline/cline/pull/14259) · 2026-10-06
 
 ### [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) · 4 merged &nbsp; <a href="https://trendshift.io/repositories/14959"><img src="https://trendshift.io/api/badge/repositories/14959" alt="HKUDS/RAG-Anything | Trendshift" width="136" height="30" align="center" /></a>
 
