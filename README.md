@@ -1,6 +1,12 @@
 ## Open-source contributions
 
-**46 merged PRs · 9 projects**
+**47 merged PRs · 9 projects**
+
+### [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) · 9 merged &nbsp; <a href="https://trendshift.io/repositories/20310"><img src="https://trendshift.io/api/badge/repositories/20310" alt="agentscope-ai/agentscope | Trendshift" width="136" height="30" align="center" /></a>
+
+- fix&#40;workspace&#41;: report an unset OpenSandbox exit code as a failure — [#3062](https://github.com/agentscope-ai/agentscope/pull/3062) · 2026-10-08
+- fix&#40;app&#41;: reject an MCP name the library cannot load back — [#3025](https://github.com/agentscope-ai/agentscope/pull/3025) · 2026-09-30
+- fix&#40;skill&#41;: read SKILL.md as utf-8-sig so a BOM keeps front matter — [#2735](https://github.com/agentscope-ai/agentscope/pull/2735) · 2026-09-29
 
 ### [cline/cline](https://github.com/cline/cline) · 1 merged
 
@@ -28,12 +34,6 @@
 - fix&#40;frontend&#41;: key the Julia entry of extensionMap by its extension — [#6130](https://github.com/bytedance/deer-flow/pull/6130) · 2026-10-01
 - fix&#40;persistence&#41;: keep a literal plus in a postgres DSN query — [#5978](https://github.com/bytedance/deer-flow/pull/5978) · 2026-09-28
 - fix&#40;frontend&#41;: a fence line with an info string must not close the block — [#5919](https://github.com/bytedance/deer-flow/pull/5919) · 2026-09-27
-
-### [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) · 8 merged &nbsp; <a href="https://trendshift.io/repositories/20310"><img src="https://trendshift.io/api/badge/repositories/20310" alt="agentscope-ai/agentscope | Trendshift" width="136" height="30" align="center" /></a>
-
-- fix&#40;app&#41;: reject an MCP name the library cannot load back — [#3025](https://github.com/agentscope-ai/agentscope/pull/3025) · 2026-09-30
-- fix&#40;skill&#41;: read SKILL.md as utf-8-sig so a BOM keeps front matter — [#2735](https://github.com/agentscope-ai/agentscope/pull/2735) · 2026-09-29
-- fix&#40;tui&#41;: count changed lines that start with a diff marker — [#2830](https://github.com/agentscope-ai/agentscope/pull/2830) · 2026-09-28
 
 ### [TencentCloud/Octop](https://github.com/TencentCloud/Octop) · 5 merged &nbsp; <a href="https://trendshift.io/repositories/95504"><img src="https://trendshift.io/api/badge/repositories/95504" alt="TencentCloud/Octop | Trendshift" width="136" height="30" align="center" /></a>
 
