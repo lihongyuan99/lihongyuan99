@@ -1,12 +1,12 @@
 ## Open-source contributions
 
-**47 merged PRs · 9 projects**
+**48 merged PRs · 9 projects**
 
-### [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) · 9 merged &nbsp; <a href="https://trendshift.io/repositories/20310"><img src="https://trendshift.io/api/badge/repositories/20310" alt="agentscope-ai/agentscope | Trendshift" width="136" height="30" align="center" /></a>
+### [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) · 10 merged &nbsp; <a href="https://trendshift.io/repositories/20310"><img src="https://trendshift.io/api/badge/repositories/20310" alt="agentscope-ai/agentscope | Trendshift" width="136" height="30" align="center" /></a>
 
+- fix&#40;app&#41;: make workspace skill deletion idempotent — [#2892](https://github.com/agentscope-ai/agentscope/pull/2892) · 2026-10-08
 - fix&#40;workspace&#41;: report an unset OpenSandbox exit code as a failure — [#3062](https://github.com/agentscope-ai/agentscope/pull/3062) · 2026-10-08
 - fix&#40;app&#41;: reject an MCP name the library cannot load back — [#3025](https://github.com/agentscope-ai/agentscope/pull/3025) · 2026-09-30
-- fix&#40;skill&#41;: read SKILL.md as utf-8-sig so a BOM keeps front matter — [#2735](https://github.com/agentscope-ai/agentscope/pull/2735) · 2026-09-29
 
 ### [cline/cline](https://github.com/cline/cline) · 1 merged
 
