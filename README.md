@@ -1,6 +1,12 @@
 ## Open-source contributions
 
-**48 merged PRs · 9 projects**
+**49 merged PRs · 9 projects**
+
+### [infiniflow/ragflow](https://github.com/infiniflow/ragflow) · 3 merged &nbsp; <a href="https://trendshift.io/repositories/9064"><img src="https://trendshift.io/api/badge/repositories/9064" alt="infiniflow/ragflow | Trendshift" width="136" height="30" align="center" /></a>
+
+- fix&#40;data&#95;source&#41;: read Google OAuth env flags so that off means off — [#20009](https://github.com/infiniflow/ragflow/pull/20009) · 2026-10-09
+- fix&#40;deepdoc&#41;: parse negative coordinates in @@ position tags on the Python side — [#19952](https://github.com/infiniflow/ragflow/pull/19952) · 2026-10-05
+- docs: drop KIBANA&#95;USER / KIBANA&#95;PASSWORD, which nothing reads — [#20150](https://github.com/infiniflow/ragflow/pull/20150) · 2026-09-24
 
 ### [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) · 10 merged &nbsp; <a href="https://trendshift.io/repositories/20310"><img src="https://trendshift.io/api/badge/repositories/20310" alt="agentscope-ai/agentscope | Trendshift" width="136" height="30" align="center" /></a>
 
@@ -17,11 +23,6 @@
 - fix&#40;modalprocessors&#41;: keep the 3-value contract on the fallback path — [#367](https://github.com/HKUDS/RAG-Anything/pull/367) · 2026-10-05
 - chore&#40;gitignore&#41;: stop unanchored test&#95;&#42; from hiding files in tests/ — [#369](https://github.com/HKUDS/RAG-Anything/pull/369) · 2026-10-05
 - fix&#40;modalprocessors&#41;: stop joining string captions per character — [#368](https://github.com/HKUDS/RAG-Anything/pull/368) · 2026-10-05
-
-### [infiniflow/ragflow](https://github.com/infiniflow/ragflow) · 2 merged &nbsp; <a href="https://trendshift.io/repositories/9064"><img src="https://trendshift.io/api/badge/repositories/9064" alt="infiniflow/ragflow | Trendshift" width="136" height="30" align="center" /></a>
-
-- fix&#40;deepdoc&#41;: parse negative coordinates in @@ position tags on the Python side — [#19952](https://github.com/infiniflow/ragflow/pull/19952) · 2026-10-05
-- docs: drop KIBANA&#95;USER / KIBANA&#95;PASSWORD, which nothing reads — [#20150](https://github.com/infiniflow/ragflow/pull/20150) · 2026-09-24
 
 ### [Canner/WrenAI](https://github.com/Canner/WrenAI) · 4 merged &nbsp; <a href="https://trendshift.io/repositories/9263"><img src="https://trendshift.io/api/badge/repositories/9263" alt="Canner/WrenAI | Trendshift" width="136" height="30" align="center" /></a>
 
