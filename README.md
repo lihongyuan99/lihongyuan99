@@ -1,6 +1,12 @@
 ## Open-source contributions
 
-**49 merged PRs · 9 projects**
+**50 merged PRs · 9 projects**
+
+### [TencentCloud/Octop](https://github.com/TencentCloud/Octop) · 6 merged &nbsp; <a href="https://trendshift.io/repositories/95504"><img src="https://trendshift.io/api/badge/repositories/95504" alt="TencentCloud/Octop | Trendshift" width="136" height="30" align="center" /></a>
+
+- fix&#40;voice&#41;: round the Edge TTS rate instead of truncating it — [#2165](https://github.com/TencentCloud/Octop/pull/2165) · 2026-10-18
+- fix&#40;desktop&#41;: expand the optional wheel overrides under bash 3.2 — [#1363](https://github.com/TencentCloud/Octop/pull/1363) · 2026-09-30
+- fix&#40;docker&#41;: ship the langfuse env var the client actually reads — [#1258](https://github.com/TencentCloud/Octop/pull/1258) · 2026-09-29
 
 ### [infiniflow/ragflow](https://github.com/infiniflow/ragflow) · 3 merged &nbsp; <a href="https://trendshift.io/repositories/9064"><img src="https://trendshift.io/api/badge/repositories/9064" alt="infiniflow/ragflow | Trendshift" width="136" height="30" align="center" /></a>
 
@@ -35,12 +41,6 @@
 - fix&#40;frontend&#41;: key the Julia entry of extensionMap by its extension — [#6130](https://github.com/bytedance/deer-flow/pull/6130) · 2026-10-01
 - fix&#40;persistence&#41;: keep a literal plus in a postgres DSN query — [#5978](https://github.com/bytedance/deer-flow/pull/5978) · 2026-09-28
 - fix&#40;frontend&#41;: a fence line with an info string must not close the block — [#5919](https://github.com/bytedance/deer-flow/pull/5919) · 2026-09-27
-
-### [TencentCloud/Octop](https://github.com/TencentCloud/Octop) · 5 merged &nbsp; <a href="https://trendshift.io/repositories/95504"><img src="https://trendshift.io/api/badge/repositories/95504" alt="TencentCloud/Octop | Trendshift" width="136" height="30" align="center" /></a>
-
-- fix&#40;desktop&#41;: expand the optional wheel overrides under bash 3.2 — [#1363](https://github.com/TencentCloud/Octop/pull/1363) · 2026-09-30
-- fix&#40;docker&#41;: ship the langfuse env var the client actually reads — [#1258](https://github.com/TencentCloud/Octop/pull/1258) · 2026-09-29
-- fix&#40;security&#41;: keep IPv6 brackets and path params when rebuilding pinned URLs — [#1092](https://github.com/TencentCloud/Octop/pull/1092) · 2026-09-24
 
 ### [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) · 2 merged
 
