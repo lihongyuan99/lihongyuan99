@@ -1,6 +1,12 @@
 ## Open-source contributions
 
-**50 merged PRs · 9 projects**
+**51 merged PRs · 9 projects**
+
+### [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) · 11 merged &nbsp; <a href="https://trendshift.io/repositories/20310"><img src="https://trendshift.io/api/badge/repositories/20310" alt="agentscope-ai/agentscope | Trendshift" width="136" height="30" align="center" /></a>
+
+- fix&#40;asr&#41;: let per-call options override the transcribe defaults — [#3333](https://github.com/agentscope-ai/agentscope/pull/3333) · 2026-10-19
+- fix&#40;app&#41;: make workspace skill deletion idempotent — [#2892](https://github.com/agentscope-ai/agentscope/pull/2892) · 2026-10-08
+- fix&#40;workspace&#41;: report an unset OpenSandbox exit code as a failure — [#3062](https://github.com/agentscope-ai/agentscope/pull/3062) · 2026-10-08
 
 ### [TencentCloud/Octop](https://github.com/TencentCloud/Octop) · 6 merged &nbsp; <a href="https://trendshift.io/repositories/95504"><img src="https://trendshift.io/api/badge/repositories/95504" alt="TencentCloud/Octop | Trendshift" width="136" height="30" align="center" /></a>
 
@@ -13,12 +19,6 @@
 - fix&#40;data&#95;source&#41;: read Google OAuth env flags so that off means off — [#20009](https://github.com/infiniflow/ragflow/pull/20009) · 2026-10-09
 - fix&#40;deepdoc&#41;: parse negative coordinates in @@ position tags on the Python side — [#19952](https://github.com/infiniflow/ragflow/pull/19952) · 2026-10-05
 - docs: drop KIBANA&#95;USER / KIBANA&#95;PASSWORD, which nothing reads — [#20150](https://github.com/infiniflow/ragflow/pull/20150) · 2026-09-24
-
-### [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) · 10 merged &nbsp; <a href="https://trendshift.io/repositories/20310"><img src="https://trendshift.io/api/badge/repositories/20310" alt="agentscope-ai/agentscope | Trendshift" width="136" height="30" align="center" /></a>
-
-- fix&#40;app&#41;: make workspace skill deletion idempotent — [#2892](https://github.com/agentscope-ai/agentscope/pull/2892) · 2026-10-08
-- fix&#40;workspace&#41;: report an unset OpenSandbox exit code as a failure — [#3062](https://github.com/agentscope-ai/agentscope/pull/3062) · 2026-10-08
-- fix&#40;app&#41;: reject an MCP name the library cannot load back — [#3025](https://github.com/agentscope-ai/agentscope/pull/3025) · 2026-09-30
 
 ### [cline/cline](https://github.com/cline/cline) · 1 merged
 
