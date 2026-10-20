@@ -1,18 +1,18 @@
 ## Open-source contributions
 
-**52 merged PRs · 9 projects**
+**53 merged PRs · 9 projects**
+
+### [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) · 12 merged &nbsp; <a href="https://trendshift.io/repositories/20310"><img src="https://trendshift.io/api/badge/repositories/20310" alt="agentscope-ai/agentscope | Trendshift" width="136" height="30" align="center" /></a>
+
+- fix&#40;tool&#41;: escape glob metacharacters in Write/Edit permission suggestions — [#3378](https://github.com/agentscope-ai/agentscope/pull/3378) · 2026-10-20
+- fix&#40;asr&#41;: let per-call options override the transcribe defaults — [#3333](https://github.com/agentscope-ai/agentscope/pull/3333) · 2026-10-19
+- fix&#40;app&#41;: make workspace skill deletion idempotent — [#2892](https://github.com/agentscope-ai/agentscope/pull/2892) · 2026-10-08
 
 ### [Canner/WrenAI](https://github.com/Canner/WrenAI) · 5 merged &nbsp; <a href="https://trendshift.io/repositories/9263"><img src="https://trendshift.io/api/badge/repositories/9263" alt="Canner/WrenAI | Trendshift" width="136" height="30" align="center" /></a>
 
 - fix&#40;wren&#41;: keep &#96;just test&#96; collecting without the postgres extra — [#2801](https://github.com/Canner/WrenAI/pull/2801) · 2026-10-20
 - fix&#40;memory&#41;: carry the reindex failure reason out of the watch loop — [#2767](https://github.com/Canner/WrenAI/pull/2767) · 2026-10-05
 - fix&#40;wren&#41;: make test-unit run the whole unit tree like CI does — [#2768](https://github.com/Canner/WrenAI/pull/2768) · 2026-10-01
-
-### [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) · 11 merged &nbsp; <a href="https://trendshift.io/repositories/20310"><img src="https://trendshift.io/api/badge/repositories/20310" alt="agentscope-ai/agentscope | Trendshift" width="136" height="30" align="center" /></a>
-
-- fix&#40;asr&#41;: let per-call options override the transcribe defaults — [#3333](https://github.com/agentscope-ai/agentscope/pull/3333) · 2026-10-19
-- fix&#40;app&#41;: make workspace skill deletion idempotent — [#2892](https://github.com/agentscope-ai/agentscope/pull/2892) · 2026-10-08
-- fix&#40;workspace&#41;: report an unset OpenSandbox exit code as a failure — [#3062](https://github.com/agentscope-ai/agentscope/pull/3062) · 2026-10-08
 
 ### [TencentCloud/Octop](https://github.com/TencentCloud/Octop) · 6 merged &nbsp; <a href="https://trendshift.io/repositories/95504"><img src="https://trendshift.io/api/badge/repositories/95504" alt="TencentCloud/Octop | Trendshift" width="136" height="30" align="center" /></a>
 
