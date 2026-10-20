@@ -1,6 +1,12 @@
 ## Open-source contributions
 
-**51 merged PRs · 9 projects**
+**52 merged PRs · 9 projects**
+
+### [Canner/WrenAI](https://github.com/Canner/WrenAI) · 5 merged &nbsp; <a href="https://trendshift.io/repositories/9263"><img src="https://trendshift.io/api/badge/repositories/9263" alt="Canner/WrenAI | Trendshift" width="136" height="30" align="center" /></a>
+
+- fix&#40;wren&#41;: keep &#96;just test&#96; collecting without the postgres extra — [#2801](https://github.com/Canner/WrenAI/pull/2801) · 2026-10-20
+- fix&#40;memory&#41;: carry the reindex failure reason out of the watch loop — [#2767](https://github.com/Canner/WrenAI/pull/2767) · 2026-10-05
+- fix&#40;wren&#41;: make test-unit run the whole unit tree like CI does — [#2768](https://github.com/Canner/WrenAI/pull/2768) · 2026-10-01
 
 ### [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) · 11 merged &nbsp; <a href="https://trendshift.io/repositories/20310"><img src="https://trendshift.io/api/badge/repositories/20310" alt="agentscope-ai/agentscope | Trendshift" width="136" height="30" align="center" /></a>
 
@@ -29,12 +35,6 @@
 - fix&#40;modalprocessors&#41;: keep the 3-value contract on the fallback path — [#367](https://github.com/HKUDS/RAG-Anything/pull/367) · 2026-10-05
 - chore&#40;gitignore&#41;: stop unanchored test&#95;&#42; from hiding files in tests/ — [#369](https://github.com/HKUDS/RAG-Anything/pull/369) · 2026-10-05
 - fix&#40;modalprocessors&#41;: stop joining string captions per character — [#368](https://github.com/HKUDS/RAG-Anything/pull/368) · 2026-10-05
-
-### [Canner/WrenAI](https://github.com/Canner/WrenAI) · 4 merged &nbsp; <a href="https://trendshift.io/repositories/9263"><img src="https://trendshift.io/api/badge/repositories/9263" alt="Canner/WrenAI | Trendshift" width="136" height="30" align="center" /></a>
-
-- fix&#40;memory&#41;: carry the reindex failure reason out of the watch loop — [#2767](https://github.com/Canner/WrenAI/pull/2767) · 2026-10-05
-- fix&#40;wren&#41;: make test-unit run the whole unit tree like CI does — [#2768](https://github.com/Canner/WrenAI/pull/2768) · 2026-10-01
-- fix&#40;wren&#41;: strip semicolon before trailing comment in strip&#95;trailing&#95;semicolon — [#2752](https://github.com/Canner/WrenAI/pull/2752) · 2026-09-23
 
 ### [bytedance/deer-flow](https://github.com/bytedance/deer-flow) · 15 merged &nbsp; <a href="https://trendshift.io/repositories/14699"><img src="https://trendshift.io/api/badge/repositories/14699" alt="bytedance/deer-flow | Trendshift" width="136" height="30" align="center" /></a>
 
