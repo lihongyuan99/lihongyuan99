@@ -1,12 +1,12 @@
 ## Open-source contributions
 
-**53 merged PRs · 9 projects**
+**54 merged PRs · 9 projects**
 
-### [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) · 12 merged &nbsp; <a href="https://trendshift.io/repositories/20310"><img src="https://trendshift.io/api/badge/repositories/20310" alt="agentscope-ai/agentscope | Trendshift" width="136" height="30" align="center" /></a>
+### [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) · 13 merged &nbsp; <a href="https://trendshift.io/repositories/20310"><img src="https://trendshift.io/api/badge/repositories/20310" alt="agentscope-ai/agentscope | Trendshift" width="136" height="30" align="center" /></a>
 
+- feat&#40;classifier&#41;: let per-call options override the Decisions defaults — [#3391](https://github.com/agentscope-ai/agentscope/pull/3391) · 2026-10-21
 - fix&#40;tool&#41;: escape glob metacharacters in Write/Edit permission suggestions — [#3378](https://github.com/agentscope-ai/agentscope/pull/3378) · 2026-10-20
 - fix&#40;asr&#41;: let per-call options override the transcribe defaults — [#3333](https://github.com/agentscope-ai/agentscope/pull/3333) · 2026-10-19
-- fix&#40;app&#41;: make workspace skill deletion idempotent — [#2892](https://github.com/agentscope-ai/agentscope/pull/2892) · 2026-10-08
 
 ### [Canner/WrenAI](https://github.com/Canner/WrenAI) · 5 merged &nbsp; <a href="https://trendshift.io/repositories/9263"><img src="https://trendshift.io/api/badge/repositories/9263" alt="Canner/WrenAI | Trendshift" width="136" height="30" align="center" /></a>
 
