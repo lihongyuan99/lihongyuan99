@@ -1,6 +1,12 @@
 ## Open-source contributions
 
-**55 merged PRs · 9 projects**
+**56 merged PRs · 9 projects**
+
+### [bytedance/deer-flow](https://github.com/bytedance/deer-flow) · 16 merged &nbsp; <a href="https://trendshift.io/repositories/14699"><img src="https://trendshift.io/api/badge/repositories/14699" alt="bytedance/deer-flow | Trendshift" width="136" height="30" align="center" /></a>
+
+- fix&#40;citations&#41;: pair inline code within a paragraph, not across blank lines — [#5876](https://github.com/bytedance/deer-flow/pull/5876) · 2026-10-22
+- fix&#40;frontend&#41;: key the Julia entry of extensionMap by its extension — [#6130](https://github.com/bytedance/deer-flow/pull/6130) · 2026-10-01
+- fix&#40;persistence&#41;: keep a literal plus in a postgres DSN query — [#5978](https://github.com/bytedance/deer-flow/pull/5978) · 2026-09-28
 
 ### [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) · 14 merged &nbsp; <a href="https://trendshift.io/repositories/20310"><img src="https://trendshift.io/api/badge/repositories/20310" alt="agentscope-ai/agentscope | Trendshift" width="136" height="30" align="center" /></a>
 
@@ -35,12 +41,6 @@
 - fix&#40;modalprocessors&#41;: keep the 3-value contract on the fallback path — [#367](https://github.com/HKUDS/RAG-Anything/pull/367) · 2026-10-05
 - chore&#40;gitignore&#41;: stop unanchored test&#95;&#42; from hiding files in tests/ — [#369](https://github.com/HKUDS/RAG-Anything/pull/369) · 2026-10-05
 - fix&#40;modalprocessors&#41;: stop joining string captions per character — [#368](https://github.com/HKUDS/RAG-Anything/pull/368) · 2026-10-05
-
-### [bytedance/deer-flow](https://github.com/bytedance/deer-flow) · 15 merged &nbsp; <a href="https://trendshift.io/repositories/14699"><img src="https://trendshift.io/api/badge/repositories/14699" alt="bytedance/deer-flow | Trendshift" width="136" height="30" align="center" /></a>
-
-- fix&#40;frontend&#41;: key the Julia entry of extensionMap by its extension — [#6130](https://github.com/bytedance/deer-flow/pull/6130) · 2026-10-01
-- fix&#40;persistence&#41;: keep a literal plus in a postgres DSN query — [#5978](https://github.com/bytedance/deer-flow/pull/5978) · 2026-09-28
-- fix&#40;frontend&#41;: a fence line with an info string must not close the block — [#5919](https://github.com/bytedance/deer-flow/pull/5919) · 2026-09-27
 
 ### [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) · 2 merged
 
