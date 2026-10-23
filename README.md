@@ -1,18 +1,18 @@
 ## Open-source contributions
 
-**57 merged PRs · 9 projects**
+**58 merged PRs · 9 projects**
+
+### [bytedance/deer-flow](https://github.com/bytedance/deer-flow) · 17 merged &nbsp; <a href="https://trendshift.io/repositories/14699"><img src="https://trendshift.io/api/badge/repositories/14699" alt="bytedance/deer-flow | Trendshift" width="136" height="30" align="center" /></a>
+
+- fix&#40;sandbox&#41;: keep quarantine teardown idempotent when a peer finishes first — [#7313](https://github.com/bytedance/deer-flow/pull/7313) · 2026-10-23
+- fix&#40;citations&#41;: pair inline code within a paragraph, not across blank lines — [#5876](https://github.com/bytedance/deer-flow/pull/5876) · 2026-10-22
+- fix&#40;frontend&#41;: key the Julia entry of extensionMap by its extension — [#6130](https://github.com/bytedance/deer-flow/pull/6130) · 2026-10-01
 
 ### [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) · 15 merged &nbsp; <a href="https://trendshift.io/repositories/20310"><img src="https://trendshift.io/api/badge/repositories/20310" alt="agentscope-ai/agentscope | Trendshift" width="136" height="30" align="center" /></a>
 
 - feat&#40;classifier&#41;: let a per-call model override reach the Jev system&#95;one call — [#3424](https://github.com/agentscope-ai/agentscope/pull/3424) · 2026-10-23
 - feat&#40;embedding&#41;: let a per-call output&#95;dimensionality reach the gemini config — [#3404](https://github.com/agentscope-ai/agentscope/pull/3404) · 2026-10-22
 - feat&#40;classifier&#41;: let per-call options override the Decisions defaults — [#3391](https://github.com/agentscope-ai/agentscope/pull/3391) · 2026-10-21
-
-### [bytedance/deer-flow](https://github.com/bytedance/deer-flow) · 16 merged &nbsp; <a href="https://trendshift.io/repositories/14699"><img src="https://trendshift.io/api/badge/repositories/14699" alt="bytedance/deer-flow | Trendshift" width="136" height="30" align="center" /></a>
-
-- fix&#40;citations&#41;: pair inline code within a paragraph, not across blank lines — [#5876](https://github.com/bytedance/deer-flow/pull/5876) · 2026-10-22
-- fix&#40;frontend&#41;: key the Julia entry of extensionMap by its extension — [#6130](https://github.com/bytedance/deer-flow/pull/6130) · 2026-10-01
-- fix&#40;persistence&#41;: keep a literal plus in a postgres DSN query — [#5978](https://github.com/bytedance/deer-flow/pull/5978) · 2026-09-28
 
 ### [Canner/WrenAI](https://github.com/Canner/WrenAI) · 5 merged &nbsp; <a href="https://trendshift.io/repositories/9263"><img src="https://trendshift.io/api/badge/repositories/9263" alt="Canner/WrenAI | Trendshift" width="136" height="30" align="center" /></a>
 
