@@ -1,12 +1,12 @@
 ## Open-source contributions
 
-**58 merged PRs · 9 projects**
+**59 merged PRs · 9 projects**
 
-### [bytedance/deer-flow](https://github.com/bytedance/deer-flow) · 17 merged &nbsp; <a href="https://trendshift.io/repositories/14699"><img src="https://trendshift.io/api/badge/repositories/14699" alt="bytedance/deer-flow | Trendshift" width="136" height="30" align="center" /></a>
+### [bytedance/deer-flow](https://github.com/bytedance/deer-flow) · 18 merged &nbsp; <a href="https://trendshift.io/repositories/14699"><img src="https://trendshift.io/api/badge/repositories/14699" alt="bytedance/deer-flow | Trendshift" width="136" height="30" align="center" /></a>
 
+- fix&#40;skills&#41;: read one shell vocabulary in the curl-pipe-shell rule — [#7378](https://github.com/bytedance/deer-flow/pull/7378) · 2026-10-24
 - fix&#40;sandbox&#41;: keep quarantine teardown idempotent when a peer finishes first — [#7313](https://github.com/bytedance/deer-flow/pull/7313) · 2026-10-23
 - fix&#40;citations&#41;: pair inline code within a paragraph, not across blank lines — [#5876](https://github.com/bytedance/deer-flow/pull/5876) · 2026-10-22
-- fix&#40;frontend&#41;: key the Julia entry of extensionMap by its extension — [#6130](https://github.com/bytedance/deer-flow/pull/6130) · 2026-10-01
 
 ### [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) · 15 merged &nbsp; <a href="https://trendshift.io/repositories/20310"><img src="https://trendshift.io/api/badge/repositories/20310" alt="agentscope-ai/agentscope | Trendshift" width="136" height="30" align="center" /></a>
 
