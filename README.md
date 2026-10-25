@@ -1,8 +1,8 @@
 ## Open-source contributions
 
-**59 merged PRs · 9 projects**
+**60 merged PRs · 9 projects**
 
-### [bytedance/deer-flow](https://github.com/bytedance/deer-flow) · 18 merged &nbsp; <a href="https://trendshift.io/repositories/14699"><img src="https://trendshift.io/api/badge/repositories/14699" alt="bytedance/deer-flow | Trendshift" width="136" height="30" align="center" /></a>
+### [bytedance/deer-flow](https://github.com/bytedance/deer-flow) · 19 merged &nbsp; <a href="https://trendshift.io/repositories/14699"><img src="https://trendshift.io/api/badge/repositories/14699" alt="bytedance/deer-flow | Trendshift" width="136" height="30" align="center" /></a>
 
 - fix&#40;skills&#41;: read one shell vocabulary in the curl-pipe-shell rule — [#7378](https://github.com/bytedance/deer-flow/pull/7378) · 2026-10-24
 - fix&#40;sandbox&#41;: keep quarantine teardown idempotent when a peer finishes first — [#7313](https://github.com/bytedance/deer-flow/pull/7313) · 2026-10-23
