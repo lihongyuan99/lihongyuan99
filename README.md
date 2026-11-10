@@ -1,18 +1,18 @@
 ## Open-source contributions
 
-**62 merged PRs · 9 projects**
+**64 merged PRs · 9 projects**
+
+### [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) · 17 merged &nbsp; <a href="https://trendshift.io/repositories/20310"><img src="https://trendshift.io/api/badge/repositories/20310" alt="agentscope-ai/agentscope | Trendshift" width="136" height="30" align="center" /></a>
+
+- fix&#40;app&#41;: validate channel updates instead of copying nulls into storage — [#2744](https://github.com/agentscope-ai/agentscope/pull/2744) · 2026-11-10
+- fix&#40;app&#41;: answer 422 when a session patch cannot be represented — [#2745](https://github.com/agentscope-ai/agentscope/pull/2745) · 2026-11-10
+- feat&#40;classifier&#41;: let a per-call model override reach the Jev system&#95;one call — [#3424](https://github.com/agentscope-ai/agentscope/pull/3424) · 2026-10-23
 
 ### [bytedance/deer-flow](https://github.com/bytedance/deer-flow) · 21 merged &nbsp; <a href="https://trendshift.io/repositories/14699"><img src="https://trendshift.io/api/badge/repositories/14699" alt="bytedance/deer-flow | Trendshift" width="136" height="30" align="center" /></a>
 
 - fix&#40;typesafe&#41;: build the async HTTPX client off the event loop — [#7931](https://github.com/bytedance/deer-flow/pull/7931) · 2026-11-09
 - fix&#40;changelog&#41;: define the missing &#91;&#35;7022&#93; reference link — [#7710](https://github.com/bytedance/deer-flow/pull/7710) · 2026-10-30
 - fix&#40;skills&#41;: read one shell vocabulary in the curl-pipe-shell rule — [#7378](https://github.com/bytedance/deer-flow/pull/7378) · 2026-10-24
-
-### [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) · 15 merged &nbsp; <a href="https://trendshift.io/repositories/20310"><img src="https://trendshift.io/api/badge/repositories/20310" alt="agentscope-ai/agentscope | Trendshift" width="136" height="30" align="center" /></a>
-
-- feat&#40;classifier&#41;: let a per-call model override reach the Jev system&#95;one call — [#3424](https://github.com/agentscope-ai/agentscope/pull/3424) · 2026-10-23
-- feat&#40;embedding&#41;: let a per-call output&#95;dimensionality reach the gemini config — [#3404](https://github.com/agentscope-ai/agentscope/pull/3404) · 2026-10-22
-- feat&#40;classifier&#41;: let per-call options override the Decisions defaults — [#3391](https://github.com/agentscope-ai/agentscope/pull/3391) · 2026-10-21
 
 ### [Canner/WrenAI](https://github.com/Canner/WrenAI) · 5 merged &nbsp; <a href="https://trendshift.io/repositories/9263"><img src="https://trendshift.io/api/badge/repositories/9263" alt="Canner/WrenAI | Trendshift" width="136" height="30" align="center" /></a>
 
